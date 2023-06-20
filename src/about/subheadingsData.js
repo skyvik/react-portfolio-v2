@@ -5,8 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Drop shipping expert in past life. Now a contributor in the Web3 ecosystem.
           </p>
         </>
       ),
@@ -14,23 +13,21 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2022 Masters Degree",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Masters in data analytics from University of Ireland
           </p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "2018 Bachelors Degree",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+             Bachelors in Electronics and telecommunication engineering, Pune University
           </p>
         </>
       ),
@@ -38,34 +35,31 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2022 Blockchain Developer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            When solidity supercedes ethereum!!!
           </p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2020 Drop-Shipping Consultant",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Digital Commerce Wizard!!!
           </p>
         </>
       ),
     },
     {
-      title: "2017 IT Consultant",
+      title: "2017 Operations in various e-commerce sectors",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Can you print money from thin air?
           </p>
         </>
       ),
